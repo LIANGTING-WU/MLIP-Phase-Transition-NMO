@@ -17,10 +17,4 @@ This model successfully enables large-scale supercell simulations and molecular 
 
 This work is currently under revision. If you use this model or dataset in your research before publication, please cite it as an unpublished manuscript:
 
-```bibtex
-@article{YenWu2026,
-  title={Accelerating structural evolution modeling of Mg- and S-doped P2-Na2/3Ni1/3Mn2/3O2 cathodes via combined DFT and machine-learning interatomic potentials},
-  author={Yen, Shih-Ying and Wu, Liang-Ting and Kaghazchi, Payam and Jiang, Jyh-Chiang},
-  journal={Under revision},
-  year={2026}
-}
+> Shih-Ying Yen, Liang-Ting Wu, Payam Kaghazchi, Jyh-Chiang Jiang. "Accelerating structural evolution modeling of Mg- and S-doped P2-Na2/3Ni1/3Mn2/3O2 cathodes via combined DFT and machine-learning interatomic potentials." *Under revision*, **2026**.
