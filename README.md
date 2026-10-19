@@ -5,13 +5,13 @@
 
 **Accelerating structural evolution modeling of Mg- and S-doped P2-Na2/3Ni1/3Mn2/3O2 cathodes via combined DFT and machine-learning interatomic potentials**
 
-This repository contains the fine-tuned Machine-Learning Interatomic Potential (MLIP) based on the **CHGNet** architecture, along with the complete Density Functional Theory (DFT) datasets (training, validation, and testing sets) in extended XYZ format. This model is specifically developed to investigate the P2–O2 phase transition and structural stability of pristine and doped P2-type Na2/3Ni1/3Mn2/3O2 (NMO) cathodes for sodium-ion batteries (SIBs).
+This repository contains the fine-tuned Machine-Learning Interatomic Potential (MLIP) based on the **CHGNet** architecture, along with the complete Density Functional Theory (DFT) datasets (training, validation, and testing sets) in extended XYZ format. This model is specifically developed to investigate the P2–O2 phase transition and structural stability of pristine and doped P2-type Na<sub>2/3<sub>Ni<sub>1/3<sub>Mn<sub>2/3<sub>O<sub>2<sub> (NMO) cathodes for sodium-ion batteries (SIBs).
 
 ## 📖 Overview
 
 The irreversible P2–O2 phase transition during deep desodiation causes severe structural degradation in Na2/3Ni1/3Mn2/3O2 cathodes. By combining DFT calculations with a fine-tuned CHGNet MLIP, we established a robust computational workflow to overcome the severe limitations of system size and simulation time in conventional DFT evaluations. 
 
-This model successfully enables large-scale supercell simulations and molecular dynamics (MD) to capture long-range interlayer interactions and local structural distortions. Our results demonstrate that incorporating redox-inactive Mg2+ significantly improves structural stability by postponing the phase transition to $x \approx 0.17$, while bulk S-doping induces structural degradation at deep desodiation levels.
+This model successfully enables large-scale supercell simulations and molecular dynamics (MD) to capture long-range interlayer interactions and local structural distortions. Our results demonstrate that incorporating redox-inactive Mg<sup>2+<sup> significantly improves structural stability by postponing the phase transition to $x \approx 0.17$, while bulk S-doping induces structural degradation at deep desodiation levels.
 
 ## 📝 Citation
 
